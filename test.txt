@@ -1,1 +1,3 @@
 My first line is my text file.  Horray!  Google!  Yahoo!
+Second line of my wonderful file.
+Third change to my dev branch
